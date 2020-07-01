@@ -25,3 +25,5 @@ test 8
   - Go to this repos main page and click the "Clone" button and copy the url it gives.
   - Go to your local machine's git folder where you want to clone this
   - Open Bash and
+
+# Step 3:
