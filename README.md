@@ -23,7 +23,7 @@ test 8
   - Go to your local machine's git folder where you want to clone this.
   - Right click within the folder and select ```git BASH here```
   - Type in ``` git clone repo [paste url of repo that you copied earlier here]``` and press enter
-  -
+  - test
 
 
 # Step 3:
