@@ -29,3 +29,4 @@ test 8
 # Step 3:
 testing merge on jenkins
 testing merge on jenkins 2
+\ntesting merge on jenkins 3
