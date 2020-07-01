@@ -1,13 +1,3 @@
-test I
-test IIII
-test IV
-test V
-
-
-# Making this readme mine nowtest merge
-test 6
-test 7
-test 8
 
 
 # Steps to setup on your own machine:
@@ -23,7 +13,7 @@ test 8
   - Go to your local machine's git folder where you want to clone this.
   - Right click within the folder and select ```git BASH here```
   - Type in ``` git clone repo [paste url of repo that you copied earlier here]``` and press enter
-  - test
+  -
 
 
 # Step 3:
