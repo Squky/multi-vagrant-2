@@ -18,8 +18,8 @@
 
 # Step 2: Create virtual machine
   - run bash and do ```vagrant up```
-  - ```vagrant ssh```
-  - ```cd /../home/ubuntu/app ```
-  - ```npm start```
+  - When the virtual machine is up and running do ```vagrant ssh``` to go into the vm
+  - Once within the VM change directory to the app using ```cd /../home/ubuntu/app ```
+  - Then type in ```npm start``` to start the app
 
   - From here on you should be able to access the app on http://192.168.10.100:3000/
