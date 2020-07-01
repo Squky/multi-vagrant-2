@@ -13,7 +13,13 @@
   - Go to your local machine's git folder where you want to clone this.
   - Right click within the folder and select ```git BASH here```
   - Type in ``` git clone repo [paste url of repo that you copied earlier here]``` and press enter
-  -
 
 
-# Step 3:
+
+# Step 2: Create virtual machine
+  - run bash and do ```vagrant up```
+  - ```vagrant ssh```
+  - ```cd /../home/ubuntu/app ```
+  - ```npm start```
+
+  - From here on you should be able to access the app on http://192.168.10.100:3000/
